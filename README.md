@@ -23,10 +23,11 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<!-- Same as this:
 ![Node.js Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 [![Discord Badge](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mQMVrkd)
-
+-->
 
 
 
@@ -35,11 +36,12 @@ Here are some ideas to get you started:
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+<p align="center">
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=TheTobbz)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
-
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=thetobbz" alt="My Trophys" />
     </a>
