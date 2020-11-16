@@ -40,10 +40,9 @@ Here are some ideas to get you started:
 
 
 
-
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=thetobbz" alt="My Trophys" />
-    </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thetobbz" alt="My Trophys" />
+</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetobbz&hide=TeX&layout=compact)
 
