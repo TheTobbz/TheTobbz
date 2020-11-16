@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)" />
-
-
-
-
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<p>Discord Guild:</p>
-<a href="https://discord.gg/mQMVrkd" traget="_parent">
-    <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
+<p align="center">
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)" alt="Javascript Badge"/>
+    <a href="https://discord.gg/mQMVrkd" traget="_parent">
+        <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+</p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=TheTobbz)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,7 +34,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 
 
