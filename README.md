@@ -36,13 +36,14 @@ Here are some ideas to get you started:
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=TheTobbz)](https://github.com/anuraghazra/github-readme-stats)
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=TheTobbz)](https://github.com/TheTobbz)
+
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=thetobbz&theme=onedark)](https://github.com/TheTobbz)
 
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thetobbz" alt="My Trophys" />
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetobbz&hide=TeX&layout=compact)
 
